@@ -10,3 +10,9 @@ tip:
   ```bash
   git submodule update --init --recursive
   ```
+  to update all repos after modifie you can type this bash command below:
+  ```bash
+  git submodule update --remote --merge
+  git commit -m "Pull new changes ftom submodules"
+  git push origin main
+  ```
