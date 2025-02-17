@@ -1,3 +1,6 @@
 [submodule "Libft"]
 	path = Libft
 	url = https://github.com/blackrainbowtest/42Yerevan-Libft.git
+[submodule "PRINTF"]
+	path = PRINTF
+	url = https://github.com/blackrainbowtest/42Yerevan-PRINTF.git
