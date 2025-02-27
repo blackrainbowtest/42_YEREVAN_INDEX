@@ -2,8 +2,8 @@
 
 This repo contains a links on my other projects
 
-- [LIBFT] (https://github.com/blackrainbowtest/42Yerevan-Libft)
-- [PRINTF] (https://github.com/blackrainbowtest/42Yerevan-Libft)
+- [LIBFT] (https://github.com/blackrainbowtest/42Yerevan-LIBFT)
+- [PRINTF] (https://github.com/blackrainbowtest/42Yerevan-PRINTF)
 
 tip: 
   to copy all repos you can type this bash command below:
